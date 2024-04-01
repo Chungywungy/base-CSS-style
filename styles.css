@@ -1,0 +1,62 @@
+h1 {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: Lato, Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: Raleway, Arial, Helvetica, sans-serif;
+}
+
+
+.roboto {
+    text-decoration: underline;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.roboto_normal {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+.roboto_bold {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+.roboto_italic {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+.lato {
+    text-decoration: underline;
+    font-family: Lato, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.lato_normal {
+    font-family: Lato, Arial, Helvetica, sans-serif;
+}
+
+.lato_bold {
+    font-family: Lato, Arial, Helvetica, sans-serif;
+}
+
+.lato_italic {
+    font-family: Lato, Arial, Helvetica, sans-serif;
+}
+
+.raleway {
+    font-family: Raleway, Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.fonts {
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px auto;
+    display: inline-block;
+}
